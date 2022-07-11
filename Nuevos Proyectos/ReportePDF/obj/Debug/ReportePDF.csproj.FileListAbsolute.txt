@@ -1,0 +1,17 @@
+G:\Visual\Nuevos Proyectos\ReportePDF\bin\Debug\ReportePDF.exe.config
+G:\Visual\Nuevos Proyectos\ReportePDF\bin\Debug\ReportePDF.exe
+G:\Visual\Nuevos Proyectos\ReportePDF\bin\Debug\ReportePDF.pdb
+G:\Visual\Nuevos Proyectos\ReportePDF\bin\Debug\FontAwesome.Sharp.dll
+G:\Visual\Nuevos Proyectos\ReportePDF\obj\Debug\ReportePDF.csproj.AssemblyReference.cache
+G:\Visual\Nuevos Proyectos\ReportePDF\obj\Debug\ReportePDF.csproj.SuggestedBindingRedirects.cache
+G:\Visual\Nuevos Proyectos\ReportePDF\obj\Debug\ReportePDF.Form1.resources
+G:\Visual\Nuevos Proyectos\ReportePDF\obj\Debug\ReportePDF.Properties.Resources.resources
+G:\Visual\Nuevos Proyectos\ReportePDF\obj\Debug\ReportePDF.csproj.GenerateResource.cache
+G:\Visual\Nuevos Proyectos\ReportePDF\obj\Debug\ReportePDF.csproj.CoreCompileInputs.cache
+G:\Visual\Nuevos Proyectos\ReportePDF\obj\Debug\ReportePDF.csproj.CopyComplete
+G:\Visual\Nuevos Proyectos\ReportePDF\obj\Debug\ReportePDF.exe
+G:\Visual\Nuevos Proyectos\ReportePDF\obj\Debug\ReportePDF.pdb
+G:\Visual\Nuevos Proyectos\ReportePDF\bin\Debug\BouncyCastle.Crypto.dll
+G:\Visual\Nuevos Proyectos\ReportePDF\bin\Debug\itextsharp.dll
+G:\Visual\Nuevos Proyectos\ReportePDF\bin\Debug\itextsharp.xmlworker.dll
+G:\Visual\Nuevos Proyectos\ReportePDF\bin\Debug\itextsharp.xml

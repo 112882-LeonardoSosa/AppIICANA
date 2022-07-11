@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Web Page Design</title>
+	<style>
+		table.border {
+			border-collapse: collapse;
+		}
+
+			table.border th {
+				padding: 5px;
+				border: 1px solid black;
+			}
+
+			table.border td {
+				padding: 5px;
+				border: 1px solid black;
+			}
+	</style>
+</head>
+<body>
+	<table style="width:100%">
+		<tr>
+			<td style="width:20%"></td>
+			<td style="width:60%" align="center">
+				<table>
+					<tr><td align="center">IICANA Jardín Botánico</td></tr>
+					<tr><td align="center">Av. República de China 1151 - Locales 15 al 18 - Valle Escondido</td></tr>
+					<tr><td align="center">Teléfono : 3516114603</td></tr>
+				</table>
+			</td>
+			<td style="width:20%">
+				<table class="border" style="width:100%">
+					<tr><td align="center">CUIT: 27-29967588-8</td></tr>
+					<tr><td align="center">RECIBO</td></tr>
+					<tr><td align="center">Nro: 000232</td></tr>
+				</table>
+			</td>
+		</tr>
+
+		<tr><td colspan="3" height="20"></td></tr>
+		<tr>
+			<td colspan="2">
+				<table style="width:100%">
+					<tr>
+						<td colspan="1" style="width:20%">Cliente:</td>
+						<td colspan="3" style="width:80%;border-bottom:1px solid black">@CLIENTE</td>
+					</tr>
+					<tr>
+						<td colspan="1" style="width:20%">Documento:</td>
+						<td colspan="1" style="width:30%;border-bottom:1px solid black">@DOCUMENTO</td>
+						<td colspan="1" style="width:20%">Fecha:</td>
+						<td colspan="1" style="width:40%;border-bottom:1px solid black">@FECHA</td>
+
+
+					</tr>
+
+				</table>
+			</td>
+		</tr>
+		<tr><td colspan="3" height="20"></td></tr>
+		<tr>
+			<td colspan="3">
+				<table class="border" style="width:100%">
+					<thead style="background-color:#D8D8D8">
+						<tr>
+							<th>Cantidad</th>
+							<th>Descripcion</th>
+							<th>Precio Unitario</th>
+							<th>Importe</th>
+						</tr>
+					</thead>
+					<tbody>
+						<!--<tr>
+							<td>asd</td>
+							<td>asd</td>
+							<td>25</td>
+							<td>25</td>
+						</tr>-->
+						@FILAS
+						<tr>
+							<td style="border: 0px !important"></td>
+							<td style="border: 0px !important"></td>
+							<td align="right">Total:</td>
+							<td>@TOTAL</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+
+	</table>
+
+</body>
+</html>
